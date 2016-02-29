@@ -1,0 +1,71 @@
+# jemdoc: menu{MENU}{research.html}
+= Dan Russo -- Research
+
+My current research focuses on the design and analysis of algorithms that, through systematic experimentation, learn over time to make increasingly effective decisions. This is related to areas like:
+- Multi-armed bandits
+- Online (stochastic) optimization under partial feedback
+- Reinforcement learning
+- Sequential design of experiments
+
+[http://www.stanford.edu/group/ideal/cgi-bin/main/?page_id=3 This group] reflects some of my more general research interests. 
+
+
+= Papers
+~~~
+#{}{img_left}{pics/combinedGraph.png}{}{}{100}{}
+
+
+*Learning to Optimize Via Information Directed Sampling*\n
+(with Benjamin Van Roy)\n 
+Submitted\n
+[docs/Information_Directed_Sampling.pdf (pdf)]
+
+
+*An Information-Theoretic Analysis of Thompson Sampling*\n
+(with Benjamin Van Roy)\n 
+Journal of Machine Learning Research (to appear with minor revision)\n
+[docs/An_Information_Theoretic_Analysis_of_Thompson_Sampling.pdf (pdf)]
+
+*Learning to Optimize Via Posterior Sampling*\n
+(with Benjamin Van Roy)\n 
+Mathematics of Operations Research (to appear)\n
+[docs/Learning_to_Optimize.pdf (pdf)] [http://arxiv.org/abs/1301.2609 (arXiv)] 
+
+*Eluder Dimension and the Sample Complexity of Optimistic Exploration*\n
+(with Benjamin Van Roy)\n
+NIPS 2013 (*Accepted for a full oral presentation.*) \n
+[docs/Eluder_Dimension.pdf (pdf)] \n
+
+*(More) Efficient Reinforcement Learning via Posterior Sampling* \n
+(with Ian Osband and Benjamin Van Roy)\n
+NIPS 2013 \n
+[docs/PSRL.pdf (pdf)] [http://arxiv.org/abs/1306.0940 (arXiv)] 
+#[docs/RLDMposter.pdf (Poster)]\n
+
+*Welfare-Improving Cascades and the Effect of Noisy Reviews*\n
+(with Nick Arnosti)\n
+WINE 2013 \n
+[docs/Welfare_Improving_Cascades_and_the_Effect_of_Noisy_Reviews.pdf (pdf)] \n
+ 
+~~~
+
+#= Invited Talks
+#~~~
+#INFORMS Annual Meeting, Minneapolis, 2013.\n 
+ 
+
+
+#= Class Projects
+#~~~
+#{}{img_left}{pics/cvLASSO.png}{}{}{100}{}
+
+#STATS 315a - PGA Golf score prediction \n
+#[docs/STATS315a.pdf pdf]
+#~~~
+
+#~~~
+#{}{img_left}{pics/projection.jpg}{}{}{100}{}
+
+#CS229 - Deep Learning for Time Series \n
+#[docs/CS229.pdf pdf], #[http://cs229.stanford.edu/proj2012/BussetiOsbandWong-DeepLearningForTimeSeriesModeling.pdf website]
+#~~~

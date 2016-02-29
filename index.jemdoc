@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{index.html}
+= Daniel Russo
+
+~~~
+{}{img_left}{pics/photo3.jpg}{}{}{250}{}
+Postdoctoral Researcher at Microsoft Research in New England  \n
+Assistant Professor at Northwestern's  Kellogg School of Management   \n
+\n
+dan.joseph.russo at gmail \n
+[https://scholar.google.com/citations?user=MM5QyU4AAAAJ&hl=en Google Scholar Profile] \n
+[http://www.linkedin.com/pub/daniel-russo/45/743/970 Linkedin profile] \n
+
+
+~~~
+
+== About Me 
+I am currently a Postdoctoral Researcher at Microsoft Research in New England. In the Fall of 2016 I will join the [http://www.kellogg.northwestern.edu/departments/meds.aspx MEDS department] at Northwestern's Kellogg School of Management as an assistant professor. 
+I recieved my PhD  from Stanford University in 2015, where I was advised by [http://engineering.stanford.edu/profile/bvr Benjamin Van Roy]. 
+In 2011 I recieved my BS in Mathematics and Economics from the University of Michigan. 
+
+== Research Interests
+My research lies at the intersection of statistical machine learning and sequential decision-making, and contributes to the fields of online optimization, reinforcement learning, and sequential design of experiments.  
+I am interested in the design and analysis of algorithms that learn over time to make increasingly effective decisions through interacting with a poorly understood environment. 
+
+
+#== Contact Information
+
+#[http://campus-map.stanford.edu/?id=&lat=37.434869229867694&lng=-122.17429865&zoom=15&srch=Jen-Hsun Huang Engineering Center Huang 141K] \n
+#Stanford, CA 94305 \n
+#[djrusso@stanford.edu] \n
+#[http://www.linkedin.com/pub/daniel-russo/45/743/970 Linkedin profile] \n
+#[http://scholar.google.com/citations?hl=en&user=QA4o6eYAAAAJ&view_op=list_works&gmla=AJsN-F4DfekwaRlNu3zwrbj6hlUEL8K75ehbWbdyGF1Ap3-i0MAOJCMcaN9rvq0S72nCqmOC0yNB4pa32Tc9FfMyYZVes9Sy3fLiAQ3RWs80bBM9C525gFA2-lyDyg5Mv3-_tzElTz7c Google Scholar]
+
