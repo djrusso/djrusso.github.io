@@ -20,14 +20,14 @@ Daniel Russo
 
 
 [http://arxiv.org/abs/1511.05219 *Controling Bias in Adaptive Data Analysis Using Information Theory*]\n
+/Preliminary version accepted at AISTATS 2016/ {{<font color="FF0000">(full oral presentation; top 7% of submissions).<font color="000000">}}\n 
 Daniel Russo and James Zou\n 
 
 
 [docs/Information_Directed_Sampling.pdf *Learning to Optimize Via Information Directed Sampling*]\n
 Daniel Russo and Benjamin Van Roy\n 
-Submitted to Operations Research \n
-- *First place, INFORMS George Nicholson 2014 student paper competition.*
-- Prelimnary version accepted at NIPS 2014
+/Submitted to Operations Research/ \n {{<font color="FF0000">First place, INFORMS George Nicholson 2014 student paper competition.<font color="000000">}}\n 
+/Prelimnary version appeared at NIPS 2014/
 
 [docs/An_Information_Theoretic_Analysis_of_Thompson_Sampling.pdf *An Information-Theoretic Analysis of Thompson Sampling*]\n
 Daniel Russo and Benjamin Van Roy\n 
@@ -36,23 +36,22 @@ Journal of Machine Learning Research (to appear)\n
 
 [docs/Learning_to_Optimize.pdf *Learning to Optimize Via Posterior Sampling*]\n
 Daniel Russo and Benjamin Van Roy\n 
-Mathematics of Operations Research. Vol. 39. No. 4, pp. 1221-1243, 2014\n
+/Mathematics of Operations Research. Vol. 39. No. 4, pp. 1221-1243, 2014/\n
 
 [docs/Eluder_Dimension.pdf *Eluder Dimension and the Sample Complexity of Optimistic Exploration*] \n
 Daniel Russo and Benjamin Van Roy\n
-NIPS 2013\n 
-- *Accepted for a full oral presentation.* 
+/NIPS 2013/ {{<font color="FF0000">(full oral presentation; top 1.4% of submissions).<font color="000000">}}\n 
 
 
 [docs/PSRL.pdf *(More) Efficient Reinforcement Learning via Posterior Sampling*] \n
 Ian Osband, Daniel Russo, and Benjamin Van Roy\n
-NIPS 2013 \n
+/NIPS 2013/ \n
 #[docs/PSRL.pdf (pdf)] [http://arxiv.org/abs/1306.0940 (arXiv)] 
 #[docs/RLDMposter.pdf (Poster)]\n
 
 [docs/Welfare_Improving_Cascades_and_the_Effect_of_Noisy_Reviews.pdf *Welfare-Improving Cascades and the Effect of Noisy Reviews*] \n
 Nick Arnosti and Daniel Russo\n
-WINE 2013 \n
+/WINE 2013/ \n
  
 
 
