@@ -1,37 +1,44 @@
 # jemdoc: menu{MENU}{research.html}
 = Daniel Russo -- Research
 
-#My current research focuses on the design and analysis of algorithms that, through systematic experimentation, learn over time to make increasingly effective decisions. This is related to areas like:
-#- Multi-armed bandits
-#- Online (stochastic) optimization under partial feedback
-#- Reinforcement learning
-#- Sequential design of experiments
 
-#[http://www.stanford.edu/group/ideal/cgi-bin/main/?page_id=3 This group] reflects some of my more general research interests. 
+[https://arxiv.org/abs/1803.02855 *Satisficing in Time-Sensitive Bandit Learning*]\n
+/Submitted/ \n
+Daniel Russo and Benjamin Van Roy \n
 
 
-#= Papers
-#~~~
-#{}{img_left}{pics/combinedGraph.png}{}{}{100}{}
+[https://arxiv.org/abs/1707.02038 *A Tutorial on Thompson Sampling*]\n
+/Submitted/ \n
+Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen \n
+
+[https://arxiv.org/abs/1703.07608 *Deep Exploration via Randomized Value Functions*]\n
+Ian Osband, Daniel Russo, Zheng Wen, and Benjamin Van Roy \n
+
+[https://arxiv.org/abs/1705.10033 *Improving the Expected Improvement Algorithm*]\n
+/Journal version in preparation/ \n
+/Preliminary version accepted at NIPS 2017/ \n
+Chao Qin, Diego Klabjan and Daniel Russo \n
 
 
 [http://arxiv.org/abs/1602.08448 *Simple Bayesian Algorithms for Best Arm Identification*]\n
-Daniel Russo
+Daniel Russo\n
+/Journal version in submission/\n 
+/Prelimnary version appeared in COLT 2016/\n {{<font color="FF0000">First place, INFORMS JFIG paper competition.<font color="000000">}}\n 
 
 
 [http://arxiv.org/abs/1511.05219 *Controling Bias in Adaptive Data Analysis Using Information Theory*]\n
 Daniel Russo and James Zou\n 
+/Journal version in submission/\n 
 /Preliminary version accepted at AISTATS 2016/ {{<font color="FF0000">(full oral presentation; top 7% of submissions).<font color="000000">}}\n 
-Information Theory and Applications (ITA) invited talk. \n
 
-[docs/Information_Directed_Sampling.pdf *Learning to Optimize Via Information Directed Sampling*]\n
+[https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *Learning to Optimize Via Information Directed Sampling*]\n
 Daniel Russo and Benjamin Van Roy\n 
-/Submitted to Operations Research/ \n {{<font color="FF0000">First place, INFORMS George Nicholson 2014 student paper competition.<font color="000000">}}\n 
-/Prelimnary version appeared at NIPS 2014/
+/Operations Research, 2018/\n 
+/Prelimnary version appeared at NIPS 2014/ \n {{<font color="FF0000">First place, INFORMS George Nicholson 2014 student paper competition.<font color="000000">}}\n 
 
-[docs/An_Information_Theoretic_Analysis_of_Thompson_Sampling.pdf *An Information-Theoretic Analysis of Thompson Sampling*]\n
+[http://www.jmlr.org/papers/volume17/14-087/14-087.pdf *An Information-Theoretic Analysis of Thompson Sampling*]\n
 Daniel Russo and Benjamin Van Roy\n 
-/Journal of Machine Learning Research (to appear)./\n
+/Journal of Machine Learning Research, 2016/\n
 
 
 [docs/Learning_to_Optimize.pdf *Learning to Optimize Via Posterior Sampling*]\n
