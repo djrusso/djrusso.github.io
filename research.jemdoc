@@ -3,12 +3,16 @@
 
 [http://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*] \n
 Jalaj Bhandari and Daniel Russo \n
-/Under review /  \n
+/Working paper /  \n
 
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3449698  *On the Futility of Dynamics in Robust Mechanism Design*]\n
+Santiago Balseiro, Anthony Kim and Daniel Russo \n
+[docs/futiliy_of_dynamics_electronic_companion Electronic Companion] \n  
+/Under review / \n
 
 [http://arxiv.org/abs/1906.02870 *Worst-Case Regret Bounds For Exploration Via Randomized Value Functions*] \n
 Daniel Russo \n
-/Under review /  \n
+/To appear at NeurIPS 2019 /  \n
 
 
 [http://arxiv.org/abs/1904.04732 *A Note on the Equivalence of Upper Confidence Bounds and Gittins Indices for Patient Agents*] \n
@@ -28,14 +32,14 @@ Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen \n
 Daniel Russo and Benjamin Van Roy \n
 /Under Review/ \n
 
-[https://arxiv.org/abs/1703.07608 *Deep Exploration via Randomized Value Functions*]\n
+[http://jmlr.org/papers/volume20/18-339/18-339.pdf *Deep Exploration via Randomized Value Functions*]\n
 Ian Osband, Daniel Russo, Zheng Wen, and Benjamin Van Roy \n
-/Journal of Machine Learning Research (to appear)/ \n
+/Journal of Machine Learning Research, 2019/ \n
 
 [https://arxiv.org/abs/1705.10033 *Improving the Expected Improvement Algorithm*]\n
 Chao Qin, Diego Klabjan and Daniel Russo \n
 /Journal version in preparation/ \n
-/Preliminary version accepted at NeurIPS 2017/ \n
+/Preliminary version appeared at NeurIPS 2017/ \n
 
 
 [http://arxiv.org/abs/1602.08448 *Simple Bayesian Algorithms for Best Arm Identification*]\n
@@ -46,13 +50,13 @@ Daniel Russo\n
 
 [http://arxiv.org/abs/1511.05219 *Controling Bias in Adaptive Data Analysis Using Information Theory*]\n
 Daniel Russo and James Zou\n 
-/Journal version under review/\n 
-/Preliminary version accepted at AISTATS 2016/ {{<font color="FF0000">(full oral presentation; top 7% of submissions).<font color="000000">}}\n 
+/IEEE Transaction on Information Theory (to appear)/\n 
+/Preliminary version appeared at AISTATS 2016/ {{<font color="FF0000">(full oral presentation; top 7% of submissions).<font color="000000">}}\n 
 
 [https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *Learning to Optimize Via Information Directed Sampling*]\n
 Daniel Russo and Benjamin Van Roy\n 
 /Operations Research, 2018/\n 
-/Prelimnary version appeared at NIPS 2014/ \n {{<font color="FF0000">First place, INFORMS George Nicholson 2014 student paper competition.<font color="000000">}}\n 
+/Prelimnary version appeared at NeurIPS 2014/ \n {{<font color="FF0000">First place, INFORMS George Nicholson 2014 student paper competition.<font color="000000">}}\n 
 
 [http://www.jmlr.org/papers/volume17/14-087/14-087.pdf *An Information-Theoretic Analysis of Thompson Sampling*]\n
 Daniel Russo and Benjamin Van Roy\n 
@@ -65,12 +69,12 @@ Daniel Russo and Benjamin Van Roy\n
 
 [docs/Eluder_Dimension.pdf *Eluder Dimension and the Sample Complexity of Optimistic Exploration*] \n
 Daniel Russo and Benjamin Van Roy\n
-/NIPS 2013/ {{<font color="FF0000">(full oral presentation; top 1.4% of submissions).<font color="000000">}}\n 
+/NeurIPS 2013/ {{<font color="FF0000">(full oral presentation; top 1.4% of submissions).<font color="000000">}}\n 
 
 
 [docs/PSRL.pdf *(More) Efficient Reinforcement Learning via Posterior Sampling*] \n
 Ian Osband, Daniel Russo, and Benjamin Van Roy\n
-/NIPS 2013./ \n
+/NeurIPS 2013./ \n
 
 [docs/Welfare_Improving_Cascades_and_the_Effect_of_Noisy_Reviews.pdf *Welfare-Improving Cascades and the Effect of Noisy Reviews*] \n
 Nick Arnosti and Daniel Russo\n
