@@ -1,28 +1,28 @@
 # jemdoc: menu{MENU}{research.html}
 = Daniel Russo -- Research
 
-[http://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*] \n
+[docs/policy_grad_optimality.pdf *Global Optimality Guarantees For Policy Gradient Methods*] \n
 Jalaj Bhandari and Daniel Russo \n
 /Working paper /  \n
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3449698  *On the Futility of Dynamics in Robust Mechanism Design*]\n
 Santiago Balseiro, Anthony Kim and Daniel Russo \n
 [docs/futiliy_of_dynamics_electronic_companion Electronic Companion] \n  
-/Under review / \n
+/Under review -- second round / \n
 
 [http://arxiv.org/abs/1906.02870 *Worst-Case Regret Bounds For Exploration Via Randomized Value Functions*] \n
 Daniel Russo \n
-/To appear at NeurIPS 2019 /  \n
+/NeurIPS 2019 /  \n
 
 
 [http://arxiv.org/abs/1904.04732 *A Note on the Equivalence of Upper Confidence Bounds and Gittins Indices for Patient Agents*] \n
 Daniel Russo \n
-/Under review /  \n
+/Operations Research (to appear) /  \n
 
 [http://arxiv.org/abs/1806.02450 *A Finite Time Analysis of Temporal Difference Learning With Linear Function Approximation*] \n
 Jalaj Bhandari, Daniel Russo, and Raghav Singal \n
-/Journal version under review /  \n
-/Preliminary version appeared at COLT 2018/ \n
+/Operations Research (to appear)/\n
+/Preliminary version appeared at COLT 2018/\n
 
 [docs/TS_Tutorial.pdf *A Tutorial on Thompson Sampling*]\n
 Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen \n
@@ -30,7 +30,7 @@ Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen \n
 
 [https://arxiv.org/abs/1803.02855 *Satisficing in Time-Sensitive Bandit Learning*]\n
 Daniel Russo and Benjamin Van Roy \n
-/Under Review/ \n
+/Under review -- second round/ \n
 
 [http://jmlr.org/papers/volume20/18-339/18-339.pdf *Deep Exploration via Randomized Value Functions*]\n
 Ian Osband, Daniel Russo, Zheng Wen, and Benjamin Van Roy \n
@@ -38,8 +38,8 @@ Ian Osband, Daniel Russo, Zheng Wen, and Benjamin Van Roy \n
 
 [https://arxiv.org/abs/1705.10033 *Improving the Expected Improvement Algorithm*]\n
 Chao Qin, Diego Klabjan and Daniel Russo \n
-/Journal version in preparation/ \n
-/Preliminary version appeared at NeurIPS 2017/ \n
+/Journal version in preparation/\n
+/Preliminary version appeared at NeurIPS 2017/\n
 
 
 [http://arxiv.org/abs/1602.08448 *Simple Bayesian Algorithms for Best Arm Identification*]\n
@@ -50,7 +50,7 @@ Daniel Russo\n
 
 [http://arxiv.org/abs/1511.05219 *Controling Bias in Adaptive Data Analysis Using Information Theory*]\n
 Daniel Russo and James Zou\n 
-/IEEE Transaction on Information Theory (to appear)/\n 
+/IEEE Transaction on Information Theory, 2019/\n 
 /Preliminary version appeared at AISTATS 2016/ {{<font color="FF0000">(full oral presentation; top 7% of submissions).<font color="000000">}}\n 
 
 [https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *Learning to Optimize Via Information Directed Sampling*]\n
