@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{talk_videos.html}
+= Daniel Russo -- Talk Videos
+
+Disclaimer: These talks are mostly tailored to machine leanring audiences, because that community has a culture of recording acdemic talks. 
+
+. Global Optimality Guarantees for Policy Gradient Methods 
+.. [https://www.youtube.com/watch?v=7oejTicsuVY&feature=emb_title Online RL Theory Seminar, 2020]
+.. [https://smartech.gatech.edu/handle/1853/62532 Georgia Tech Machine Learning Seminar, 2020] 
+. Simple Bayesian Algorithms for Best Arm Identification
+.. [https://www.ima.umn.edu/2018-2019.1/W12.3-7.18/27801 IMA Workshop on Data Driven Supply Chain Management] 
+. Deep Exploration via Randomized Value Functions
+.. [https://www.youtube.com/watch?v=qq_TMnQ-NLU ADSI Summer Workshop: Algorithmic Foundations of Learning and Control, 2019]
+. A Finite Time Analysis of Temporal Difference Learning
+.. [https://www.youtube.com/watch?v=UWzybKYVjIo Short talk at COLT]
+
+
