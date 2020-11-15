@@ -1,9 +1,14 @@
 # jemdoc: menu{MENU}{research.html}
 = Daniel Russo -- Research
 
-[docs/policy_grad_optimality.pdf *Global Optimality Guarantees For Policy Gradient Methods*] \n
+[https://arxiv.org/abs/2007.11684 *Approximation Benefits of Policy Gradient Methods with Aggregated States.*] \n
+Daniel Russo \n
+/Working paper /  \n
+
+[https://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*] \n
 Jalaj Bhandari and Daniel Russo \n
 /Working paper /  \n
+[https://arxiv.org/abs/2007.11120	A related note on the linear convergence of policy gradient methods]\n
 [https://www.youtube.com/watch?v=7oejTicsuVY&feature=emb_title Talk link]\n
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3449698  *On the Futility of Dynamics in Robust Mechanism Design*]\n
@@ -40,19 +45,18 @@ Ian Osband, Daniel Russo, Zheng Wen, and Benjamin Van Roy \n
 
 [https://arxiv.org/abs/1705.10033 *Improving the Expected Improvement Algorithm*]\n
 Chao Qin, Diego Klabjan and Daniel Russo \n
-/Journal version in preparation/\n
-/Preliminary version appeared at NeurIPS 2017/\n
+/NeurIPS 2017/\n
 
 
 [http://arxiv.org/abs/1602.08448 *Simple Bayesian Algorithms for Best Arm Identification*]\n
 Daniel Russo\n
-/Operations Research (to appear)/\n 
+/Operations Research, 2020/\n 
 /Prelimnary version appeared in COLT 2016/\n {{<font color="FF0000">First place, INFORMS JFIG paper competition.<font color="000000">}}\n 
 
 
-[http://arxiv.org/abs/1511.05219 *Controling Bias in Adaptive Data Analysis Using Information Theory*]\n
+[docs/information_usage.pdf *Controling Bias in Adaptive Data Analysis Using Information Theory*]\n
 Daniel Russo and James Zou\n 
-/IEEE Transaction on Information Theory, 2019/\n 
+/IEEE Transaction on Information Theory, 2020/\n 
 /Preliminary version appeared at AISTATS 2016/ {{<font color="FF0000">(full oral presentation; top 7% of submissions).<font color="000000">}}\n 
 
 [https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *Learning to Optimize Via Information Directed Sampling*]\n
