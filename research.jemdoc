@@ -31,13 +31,14 @@ Jalaj Bhandari, Daniel Russo, and Raghav Singal \n
 /Preliminary version appeared at COLT 2018/\n
 [https://www.youtube.com/watch?v=UWzybKYVjIo Short talk link]\n
 
+[https://arxiv.org/abs/1803.02855 *Satisficing in Time-Sensitive Bandit Learning*]\n
+Daniel Russo and Benjamin Van Roy \n
+/Mathematics of Operations Research (to appear)/ \n
+
+
 [docs/TS_Tutorial.pdf *A Tutorial on Thompson Sampling*]\n
 Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen \n
 /Foundations and Trends in Machine Learning, Vol. 11, No. 1, pp. 1-96, 2018./  ([https://github.com/iosband/ts_tutorial code])  \n
-
-[https://arxiv.org/abs/1803.02855 *Satisficing in Time-Sensitive Bandit Learning*]\n
-Daniel Russo and Benjamin Van Roy \n
-/Under review -- second round/ \n
 
 [http://jmlr.org/papers/volume20/18-339/18-339.pdf *Deep Exploration via Randomized Value Functions*]\n
 Ian Osband, Daniel Russo, Zheng Wen, and Benjamin Van Roy \n
