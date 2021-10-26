@@ -1,39 +1,52 @@
 # jemdoc: menu{MENU}{research.html}
 = Daniel Russo -- Research
 
+On Adaptivity and Confounding in Contextual Bandit Experiments. \n 
+Daniel Russo and Chao Qin \n 
+/ Working paper (Status: posted soon) / \n
+
 [https://arxiv.org/abs/2007.11684 *Approximation Benefits of Policy Gradient Methods with Aggregated States.*] \n
 Daniel Russo \n
-/Working paper /  \n
+/Working paper (Status: major revision requested at Management Science) /  \n
 
 [https://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*] \n
 Jalaj Bhandari and Daniel Russo \n
-/Working paper /  \n
-[https://arxiv.org/abs/2007.11120	A related note on the linear convergence of policy gradient methods]\n
+/Working paper (Status: major revision requested at Operations Research)/  \n
 [https://www.youtube.com/watch?v=7oejTicsuVY&feature=emb_title Talk link]\n
 
-[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3449698  *On the Futility of Dynamics in Robust Mechanism Design*]\n
-Santiago Balseiro, Anthony Kim and Daniel Russo \n
-[docs/futiliy_of_dynamics_electronic_companion Electronic Companion] \n  
-/Operations Research (to appear)/ \n
+[http://proceedings.mlr.press/v130/bhandari21a.html *On the Linear Convergence of Policy Gradient Methods for Finite MDPs*] \n
+Jalaj Bhandari and Daniel Russo \n
+Conference on Artificial Intelligence and Statistics (AISTATS), 2021
 
-[http://arxiv.org/abs/1906.02870 *Worst-Case Regret Bounds For Exploration Via Randomized Value Functions*] \n
+
+[https://arxiv.org/abs/2102.10025 *Learning to Stop with Surprisingly Few Samples*] \n
+Tianyi Zhang, Daniel Russo, Assaf Zeevi \n
+/Appeared at COLT 2021, journal version in progress/ \n
+
+
+[docs/futiliy_of_dynamics_merged.pdf  *On the Futility of Dynamics in Robust Mechanism Design*]\n
+Santiago Balseiro, Anthony Kim and Daniel Russo \n  
+/Operations Research, 2021/ \n
+
+
+[docs/gittins.pdf *A Note on the Equivalence of Upper Confidence Bounds and Gittins Indices for Patient Agents*] \n
 Daniel Russo \n
-/NeurIPS 2019 /  \n
+/Operations Research, 2021 /  \n
 
-
-[http://arxiv.org/abs/1904.04732 *A Note on the Equivalence of Upper Confidence Bounds and Gittins Indices for Patient Agents*] \n
-Daniel Russo \n
-/Operations Research (to appear) /  \n
-
-[http://arxiv.org/abs/1806.02450 *A Finite Time Analysis of Temporal Difference Learning With Linear Function Approximation*] \n
+[docs/TD_finite_time_merged.pdf  *A Finite Time Analysis of Temporal Difference Learning With Linear Function Approximation*] \n
 Jalaj Bhandari, Daniel Russo, and Raghav Singal \n
-/Operations Research (to appear)/\n
+/Operations Research, 2021/\n
 /Preliminary version appeared at COLT 2018/\n
 [https://www.youtube.com/watch?v=UWzybKYVjIo Short talk link]\n
+
 
 [https://arxiv.org/abs/1803.02855 *Satisficing in Time-Sensitive Bandit Learning*]\n
 Daniel Russo and Benjamin Van Roy \n
 /Mathematics of Operations Research (to appear)/ \n
+
+[http://arxiv.org/abs/1906.02870 *Worst-Case Regret Bounds For Exploration Via Randomized Value Functions*] \n
+Daniel Russo \n
+/NeurIPS 2019 /  \n
 
 
 [docs/TS_Tutorial.pdf *A Tutorial on Thompson Sampling*]\n
@@ -49,7 +62,7 @@ Chao Qin, Diego Klabjan and Daniel Russo \n
 /NeurIPS 2017/\n
 
 
-[http://arxiv.org/abs/1602.08448 *Simple Bayesian Algorithms for Best Arm Identification*]\n
+[docs/best_arm_identification_body.pdf *Simple Bayesian Algorithms for Best Arm Identification*]\n
 Daniel Russo\n
 /Operations Research, 2020/\n 
 /Prelimnary version appeared in COLT 2016/\n {{<font color="FF0000">First place, INFORMS JFIG paper competition.<font color="000000">}}\n 

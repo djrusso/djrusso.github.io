@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{pics/photo3.jpg}{}{}{250}{}
-Assistant Professor at Columbia Business School  \n
+Associate Professor at Columbia Business School  \n
 [djr2174@gsb.columbia.edu] \n
 [https://scholar.google.com/citations?user=MM5QyU4AAAAJ&hl=en Google Scholar Profile] \n
 [http://www.linkedin.com/pub/daniel-russo/45/743/970 Linkedin profile] \n
@@ -16,7 +16,9 @@ My research lies at the intersection of statistical machine learning and online 
 I joined the [https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations Decision, Risk, and Operations division] of the Columbia Business School as an assistant professor in Summer 2017. Prior to joining Columbia, 
 I spent one great year  as an assistant professor in the MEDS department at Northwestern's Kellogg School of Management 
 and one year at Microsoft Research in New England as Postdoctoral Researcher. I recieved my PhD  from Stanford University in 2015, where I was advised by [http://engineering.stanford.edu/profile/bvr Benjamin Van Roy]. 
-In 2011 I recieved my BS in Mathematics and Economics from the University of Michigan. 
+In 2011 I recieved my BS in Mathematics and Economics from the University of Michigan. Outside academia, I work with Spotify to apply reinforcement learning style models to audio recommendations.  
+
+I currently serve as an associate editor at Management Science and Stochastic Systems. 
 
 == Selected Papers  
 
@@ -26,7 +28,7 @@ In 2011 I recieved my BS in Mathematics and Economics from the University of Mic
 Daniel Russo, Operations Research, 2020.
 
 [docs/Information_usage.pdf *Controling Bias in Adaptive Data Analysis Using Information Theory*],
-Daniel Russo and James Zou,IEEE Transaction on Information Theory, 2020
+ Daniel Russo and James Zou,IEEE Transaction on Information Theory, 2020
 
 [https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *Learning to Optimize Via Information Directed Sampling*], 
 Daniel Russo and Benjamin Van Roy, Operations Research, 2018
