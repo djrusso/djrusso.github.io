@@ -16,7 +16,7 @@ Jalaj Bhandari and Daniel Russo \n
 
 [http://proceedings.mlr.press/v130/bhandari21a.html *On the Linear Convergence of Policy Gradient Methods for Finite MDPs*] \n
 Jalaj Bhandari and Daniel Russo \n
-Conference on Artificial Intelligence and Statistics (AISTATS), 2021
+/Conference on Artificial Intelligence and Statistics (AISTATS), 2021/ \n
 
 
 [https://arxiv.org/abs/2102.10025 *Learning to Stop with Surprisingly Few Samples*] \n
@@ -33,7 +33,7 @@ Santiago Balseiro, Anthony Kim and Daniel Russo \n
 Daniel Russo \n
 /Operations Research, 2021 /  \n
 
-[docs/TD_finite_time_merged.pdf  *A Finite Time Analysis of Temporal Difference Learning With Linear Function Approximation*] \n
+[docs/TD_finite_time-merged.pdf  *A Finite Time Analysis of Temporal Difference Learning With Linear Function Approximation*] \n
 Jalaj Bhandari, Daniel Russo, and Raghav Singal \n
 /Operations Research, 2021/\n
 /Preliminary version appeared at COLT 2018/\n

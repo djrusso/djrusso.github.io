@@ -12,30 +12,54 @@ Associate Professor at Columbia Business School  \n
 ~~~
 
 == About Me 
-My research lies at the intersection of statistical machine learning and online decision making, mostly falling under the broad umbrella of reinforcement learning. 
-I joined the [https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations Decision, Risk, and Operations division] of the Columbia Business School as an assistant professor in Summer 2017. Prior to joining Columbia, 
-I spent one great year  as an assistant professor in the MEDS department at Northwestern's Kellogg School of Management 
+
+I joined the [https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations Decision, Risk, and Operations division] of the Columbia Business School in Summer 2017. I teach a core MBA course on statistics and a PhD course on dyanamic optimization. My research lies at the intersection of statistical machine learning and online decision making, mostly falling under the broad umbrella of reinforcement learning. 
+Outside academia, I work with Spotify to apply reinforcement learning style models to audio recommendations.  
+
+Prior to joining Columbia, I spent one great year  as an assistant professor in the MEDS department at Northwestern's Kellogg School of Management 
 and one year at Microsoft Research in New England as Postdoctoral Researcher. I recieved my PhD  from Stanford University in 2015, where I was advised by [http://engineering.stanford.edu/profile/bvr Benjamin Van Roy]. 
-In 2011 I recieved my BS in Mathematics and Economics from the University of Michigan. Outside academia, I work with Spotify to apply reinforcement learning style models to audio recommendations.  
+In 2011 I recieved my BS in Mathematics and Economics from the University of Michigan. 
 
 I currently serve as an associate editor at Management Science and Stochastic Systems. 
 
-== Selected Papers  
 
-[https://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*], Jalaj Bhandari and Daniel Russo, working paper.
+== Research area  
 
-[docs/best_arm_identification_body.pdf *Simple Bayesian Algorithms for Best Arm Identification*],
-Daniel Russo, Operations Research, 2020.
+I work on a subfield of machine learning called reinforcement learning (RL). I mean this rather broadly, as grappling with key issues that are not a focus of standard (supervised) machine learning:
 
-[docs/Information_usage.pdf *Controling Bias in Adaptive Data Analysis Using Information Theory*],
- Daniel Russo and James Zou,IEEE Transaction on Information Theory, 2020
+1. The goal is to make effective decisions. Better predictions are useful insofar as they advance this goal.    
+	
+- In these problems, one must take seriously the specification of the decision-objective (e.g. the definition of the "reward" in RL lingo) and the subtle way in which estimation errors influence the quality of resulting decisions. I've been interested in the interplay between a problem's time horizon and robusness to mis-estimation (see e.g. [https://arxiv.org/abs/2102.10025 *here*], or [https://arxiv.org/abs/2007.11684 *here*]) and in measures of the marginal value of information that are suitable for decision-making (see [https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *here*] or [https://arxiv.org/abs/1803.02855 *here*]). 
 
-[https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *Learning to Optimize Via Information Directed Sampling*], 
-Daniel Russo and Benjamin Van Roy, Operations Research, 2018
+	
+2. Decisions today influence the data available in the future. 
+
+- Learning may require purposeful experimentation. Think of TikTok, where data is only collected on recomended videos, and data is fed back into the system to drive future reccomendations. I've worked extensively on methods for efficient experimentation (see [https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *here*], [docs/Learning_to_Optimize.pdf *here*] or [docs/best_arm_identification_body.pdf *here*]
+) and have also worked a bit on issues of statistical bias (this is implicitly delt with in many papers and explicit [docs/Information_usage.pdf *here*]).
 
 
-[docs/Learning_to_Optimize.pdf *Learning to Optimize Via Posterior Sampling*], Daniel Russo and Benjamin Van Roy,
-Mathematics of Operations Research. 2014.
+
+3. Decisions have delayed consequences, introducing intertemporal tradeoffs and challenges with mesurement and attribution. 
+
+- RL is the machine learning paradigm that deals with making a sequence of decisions to attain a goal. Key challenge include accurate measurement ( long-term outcomes often have very high variance and are observed after long delay) and attribution (a long sequence of actions jointly cause a good outcome, making it unclear which behaviors to reinforce).  My applied work at Spotify mainly focuses on these challenges, and the intuition from having worked on foundational RL approaches has been quite helpful (e.g. [docs/TD_finite_time-merged.pdf *TD*] is about sidestepping measurement issues and [https://arxiv.org/abs/1906.01786   *local policy improvement*] is about coherently deciding which behaviors to reinforce).   
+
+
+#== Selected Papers  
+
+#[https://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*], Jalaj Bhandari and Daniel Russo, working paper.
+
+#[docs/best_arm_identification_body.pdf *Simple Bayesian Algorithms for Best Arm Identification*],
+#Daniel Russo, Operations Research, 2020.
+
+#[docs/Information_usage.pdf *Controling Bias in Adaptive Data Analysis Using Information Theory*],
+# Daniel Russo and James Zou,IEEE Transaction on Information Theory, 2020
+
+#[https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *Learning to Optimize Via Information Directed Sampling*], 
+#Daniel Russo and Benjamin Van Roy, Operations Research, 2018
+
+
+#[docs/Learning_to_Optimize.pdf *Learning to Optimize Via Posterior Sampling*], Daniel Russo and Benjamin Van Roy,
+#Mathematics of Operations Research. 2014.
 
 
 #[docs/TS_Tutorial.pdf *A Tutorial on Thompson Sampling*],
