@@ -41,7 +41,7 @@ I work on a subfield of machine learning called reinforcement learning (RL). I m
 
 3. Decisions have delayed consequences, introducing intertemporal tradeoffs and challenges with mesurement and attribution. 
 
-- RL is the machine learning paradigm that deals with making a sequence of decisions to attain a goal. Key challenge include accurate measurement ( long-term outcomes often have very high variance and are observed after long delay) and attribution (a long sequence of actions jointly cause a good outcome, making it unclear which behaviors to reinforce).  My applied work at Spotify mainly focuses on these challenges, and the intuition from having worked on foundational RL approaches has been quite helpful (e.g. [docs/TD_finite_time-merged.pdf *TD*] is about sidestepping measurement issues and [https://arxiv.org/abs/1906.01786   *local policy improvement*] is about coherently deciding which behaviors to reinforce).   
+- RL is the machine learning paradigm that deals with making a sequence of decisions to attain a goal. Key challenges include accurate measurement ( long-term outcomes often have very high variance and are observed after long delay) and attribution (a long sequence of actions jointly cause a good outcome, making it unclear which behaviors to reinforce).  My applied work at Spotify mainly focuses on these challenges, and the intuition from having worked on foundational RL approaches has been quite helpful (e.g. [docs/TD_finite_time-merged.pdf *TD*] is about sidestepping measurement issues and [https://arxiv.org/abs/1906.01786   *local policy improvement*] is about coherently deciding which behaviors to reinforce).   
 
 
 #== Selected Papers  
