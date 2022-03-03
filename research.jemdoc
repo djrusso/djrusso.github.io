@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{research.html}
 = Daniel Russo -- Research
 
-On Adaptivity and Confounding in Contextual Bandit Experiments. \n 
+[docs/contextual_bai.pdf *On Adaptivity and Confounding in Multi-Armed Bandit Experiments*] \n
 Daniel Russo and Chao Qin \n 
-/ Working paper (Status: posted soon) / \n
+[docs/contextual_bai_slides.pdf *talk slides*] \n
 
 [https://arxiv.org/abs/2007.11684 *Approximation Benefits of Policy Gradient Methods with Aggregated States.*] \n
 Daniel Russo \n
