@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{research.html}
 = Daniel Russo -- Research
 
-[docs/contextual_bai.pdf *On Adaptivity and Confounding in Multi-Armed Bandit Experiments*] \n
+[https://arxiv.org/abs/2202.09036 *On Adaptivity and Confounding in Multi-Armed Bandit Experiments*] \n
 Chao Qin and Daniel Russo \n 
 [docs/contextual_bai_slides.pdf *talk slides*] \n
 
@@ -11,7 +11,7 @@ Daniel Russo \n
 
 [https://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*] \n
 Jalaj Bhandari and Daniel Russo \n
-/Working paper (Status: major revision requested at Operations Research)/  \n
+/Working paper (Status: minor revision requested at Operations Research)/  \n
 [https://www.youtube.com/watch?v=7oejTicsuVY&feature=emb_title Talk link]\n
 
 [http://proceedings.mlr.press/v130/bhandari21a.html *On the Linear Convergence of Policy Gradient Methods for Finite MDPs*] \n
@@ -24,7 +24,7 @@ Tianyi Zhang, Daniel Russo, Assaf Zeevi \n
 /Appeared at COLT 2021, journal version in progress/ \n
 
 
-[docs/futiliy_of_dynamics_merged.pdf  *On the Futility of Dynamics in Robust Mechanism Design*]\n
+[docs/futility_of_dynamics-merged.pdf  *On the Futility of Dynamics in Robust Mechanism Design*]\n
 Santiago Balseiro, Anthony Kim and Daniel Russo \n  
 /Operations Research, 2021/ \n
 
@@ -40,7 +40,7 @@ Jalaj Bhandari, Daniel Russo, and Raghav Singal \n
 [https://www.youtube.com/watch?v=UWzybKYVjIo Short talk link]\n
 
 
-[https://arxiv.org/abs/1803.02855 *Satisficing in Time-Sensitive Bandit Learning*]\n
+[docs/satisficing.pdf *Satisficing in Time-Sensitive Bandit Learning*]\n
 Daniel Russo and Benjamin Van Roy \n
 /Mathematics of Operations Research (to appear)/ \n
 
