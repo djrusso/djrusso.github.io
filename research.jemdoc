@@ -1,18 +1,25 @@
 # jemdoc: menu{MENU}{research.html}
 = Daniel Russo -- Research
 
+
+Temporally-Consistent Survival Analysis \n
+Lucas Maystre and Daniel Russo \n
+/Neurips 2022/
+
 [https://arxiv.org/abs/2202.09036 *Adaptivity and Confounding in Multi-Armed Bandit Experiments*] \n
 Chao Qin and Daniel Russo \n 
-[docs/contextual_bai_slides.pdf *talk slides*] \n
+[https://www.youtube.com/watch?v=dCbhHLWPU1g Talk link]\n 
 
-[https://arxiv.org/abs/2007.11684 *Approximation Benefits of Policy Gradient Methods with Aggregated States.*] \n
-Daniel Russo \n
-/Working paper (Status: major revision requested at Management Science) /  \n
 
 [https://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*] \n
 Jalaj Bhandari and Daniel Russo \n
 /Working paper (Status: minor revision requested at Operations Research)/  \n
 [https://www.youtube.com/watch?v=7oejTicsuVY&feature=emb_title Talk link]\n
+
+
+[https://arxiv.org/abs/2007.11684 *Approximation Benefits of Policy Gradient Methods with Aggregated States.*] \n
+Daniel Russo \n
+/Management Science (to appear)/  \n
 
 [http://proceedings.mlr.press/v130/bhandari21a.html *On the Linear Convergence of Policy Gradient Methods for Finite MDPs*] \n
 Jalaj Bhandari and Daniel Russo \n

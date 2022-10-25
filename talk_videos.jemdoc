@@ -3,6 +3,8 @@
 
 Disclaimer: These talks are mostly tailored to machine leanring audiences, because that community has a culture of recording acdemic talks. 
 
+. Adaptivity and Confounding in Multi-Armed Bandit Experiments
+.. [https://www.youtube.com/watch?v=dCbhHLWPU1g Simons Institute, 2022]
 . Global Optimality Guarantees for Policy Gradient Methods 
 .. [https://www.youtube.com/watch?v=7oejTicsuVY&feature=emb_title Online RL Theory Seminar, 2020]
 .. [https://smartech.gatech.edu/handle/1853/62532 Georgia Tech Machine Learning Seminar, 2020] 
