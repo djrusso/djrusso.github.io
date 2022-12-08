@@ -2,24 +2,31 @@
 = Daniel Russo -- Research
 
 
-[https://openreview.net/pdf?id=r-CsquKaHvk *Temporally-Consistent Survival Analysis*] \n
-Lucas Maystre and Daniel Russo \n
-/Neurips 2022/
-
 [https://arxiv.org/abs/2202.09036 *Adaptivity and Confounding in Multi-Armed Bandit Experiments*] \n
 Chao Qin and Daniel Russo \n 
+Working paper - Under Review. \n
 [https://www.youtube.com/watch?v=dCbhHLWPU1g Talk link]\n 
 
+[https://openreview.net/pdf?id=r-CsquKaHvk *Temporally-Consistent Survival Analysis*] \
+Lucas Maystre and Daniel Russo \n
+/Neurips 2022/ \n
+[https://research.atspotify.com/2022/11/survival-analysis-meets-reinforcement-learning/ Spotify blog post]\n 
 
 [https://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*] \n
 Jalaj Bhandari and Daniel Russo \n
-/Working paper (Status: minor revision requested at Operations Research)/  \n
+/Operations Research (to appear)/  \n
 [https://www.youtube.com/watch?v=7oejTicsuVY&feature=emb_title Talk link]\n
 
 
 [https://arxiv.org/abs/2007.11684 *Approximation Benefits of Policy Gradient Methods with Aggregated States.*] \n
 Daniel Russo \n
 /Management Science (to appear)/  \n
+
+
+[docs/satisficing.pdf *Satisficing in Time-Sensitive Bandit Learning*]\n
+Daniel Russo and Benjamin Van Roy \n
+/Mathematics of Operations Research, 2022/ \n
+
 
 [http://proceedings.mlr.press/v130/bhandari21a.html *On the Linear Convergence of Policy Gradient Methods for Finite MDPs*] \n
 Jalaj Bhandari and Daniel Russo \n
@@ -46,10 +53,6 @@ Jalaj Bhandari, Daniel Russo, and Raghav Singal \n
 /Preliminary version appeared at COLT 2018/\n
 [https://www.youtube.com/watch?v=UWzybKYVjIo Short talk link]\n
 
-
-[docs/satisficing.pdf *Satisficing in Time-Sensitive Bandit Learning*]\n
-Daniel Russo and Benjamin Van Roy \n
-/Mathematics of Operations Research (to appear)/ \n
 
 [http://arxiv.org/abs/1906.02870 *Worst-Case Regret Bounds For Exploration Via Randomized Value Functions*] \n
 Daniel Russo \n
