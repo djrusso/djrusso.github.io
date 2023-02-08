@@ -46,23 +46,23 @@ In 2011 I received my BS in Mathematics and Economics from the University of Mic
 #- RL is the machine learning paradigm that deals with making a sequence of decisions to attain a goal. Key challenges include accurate measurement ( long-term outcomes often have very high variance and are observed after long delay) and attribution (a long sequence of actions jointly cause a good outcome, making it unclear which behaviors to reinforce).  My applied work at Spotify mainly focuses on these challenges, and the intuition from having worked on foundational RL approaches has been quite helpful (e.g. [docs/TD_finite_time-merged.pdf *TD*] is about sidestepping measurement issues and [https://arxiv.org/abs/1906.01786   *local policy improvement*] is about coherently deciding which behaviors to reinforce).   
 
 
-== Selected Papers  
+#== Selected Papers  
 
 
-[https://arxiv.org/abs/2202.09036 *Adaptivity and Confounding in Multi-Armed Bandit Experiments*], Chao Qin and Daniel Russo, working paper. 
+#[https://arxiv.org/abs/2202.09036 *Adaptivity and Confounding in Multi-Armed Bandit Experiments*], Chao Qin and Daniel Russo, working paper. 
 
 
-[https://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*], Jalaj Bhandari and Daniel Russo, working paper.
+#[https://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*], Jalaj Bhandari and Daniel Russo, working paper.
 
 
 #[docs/best_arm_identification_body.pdf *Simple Bayesian Algorithms for Best Arm Identification*],
 #Daniel Russo, Operations Research, 2020.
 
-[docs/Information_usage.pdf *Controling Bias in Adaptive Data Analysis Using Information Theory*],
- Daniel Russo and James Zou,IEEE Transaction on Information Theory, 2020
+#[docs/Information_usage.pdf *Controling Bias in Adaptive Data Analysis Using Information Theory*],
+# Daniel Russo and James Zou,IEEE Transaction on Information Theory, 2020
 
-[https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *Learning to Optimize Via Information Directed Sampling*], 
-Daniel Russo and Benjamin Van Roy, Operations Research, 2018
+#[https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *Learning to Optimize Via Information Directed Sampling*], 
+#Daniel Russo and Benjamin Van Roy, Operations Research, 2018
 
 
 #[docs/Learning_to_Optimize.pdf *Learning to Optimize Via Posterior Sampling*], Daniel Russo and Benjamin Van Roy,
@@ -72,7 +72,7 @@ Daniel Russo and Benjamin Van Roy, Operations Research, 2018
 #[docs/TS_Tutorial.pdf *A Tutorial on Thompson Sampling*],
 #Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen, Foundations and Trends in Machine Learning, 2018.
 
-These papers offer an introduction to my research interests and taste. 
+#These papers offer an introduction to my research interests and taste. 
 
 #== Contact Information
 

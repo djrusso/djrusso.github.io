@@ -1,13 +1,20 @@
 # jemdoc: menu{MENU}{research.html}
 = Daniel Russo -- Research
 
+[https://arxiv.org/abs/2302.03561 *Optimizing Audio Recommendations for the Long-Term: A Reinforcement Learning Perspective*] \n
+Lucas Maystre, Daniel Russo, and Yu Zhao\n 
+Working paper. \n
+
+[https://arxiv.org/abs/2301.13289 *On the Statistical Benefits of Temporal Difference Learning*] \n
+David Cheikhi and Daniel Russo\n 
+Working paper - Under Review. \n
 
 [https://arxiv.org/abs/2202.09036 *Adaptivity and Confounding in Multi-Armed Bandit Experiments*] \n
 Chao Qin and Daniel Russo \n 
 Working paper - Under Review. \n
 [https://www.youtube.com/watch?v=dCbhHLWPU1g Talk link]\n 
 
-[https://openreview.net/pdf?id=r-CsquKaHvk *Temporally-Consistent Survival Analysis*] \
+[https://openreview.net/pdf?id=r-CsquKaHvk *Temporally-Consistent Survival Analysis*] \n
 Lucas Maystre and Daniel Russo \n
 /Neurips 2022/ \n
 [https://research.atspotify.com/2022/11/survival-analysis-meets-reinforcement-learning/ Spotify blog post]\n 
