@@ -1,21 +1,34 @@
 # jemdoc: menu{MENU}{research.html}
 = Daniel Russo -- Research
 
+
+
+[https://arxiv.org/abs/2306.11246 *Neural Inventory Control in Networks via Hindsight Differentiable Policy Optimization*] \n
+Matias Alvo, Daniel Russo, Yash Kanoria
+Working paper. In submission.\n
+
+[https://arxiv.org/abs/2307.09943 *Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay*] \n
+Thomas M McDonald, Lucas Maystre, Mounia Lalmas, Daniel Russo, Kamil Ciosek \n 
+/KDD 2023/ \n
+[https://research.atspotify.com/2023/07/optimizing-for-the-long-term-without-delay/ Spotify blog post]\n 
+
+
 [https://arxiv.org/abs/2302.03561 *Optimizing Audio Recommendations for the Long-Term: A Reinforcement Learning Perspective*] \n
 Lucas Maystre, Daniel Russo, and Yu Zhao\n 
-Working paper. \n
+Working paper. In submission. \n
 
 [https://arxiv.org/abs/2301.13289 *On the Statistical Benefits of Temporal Difference Learning*] \n
 David Cheikhi and Daniel Russo\n 
-Working paper - Under Review. \n
+/ICML 2023/, {{<font color="FF0000">(full oral presentation; top 2.2% of submissions).<font color="000000">}} \n
 
 [https://arxiv.org/abs/2302.04452 *An Information-Theoretic Analysis of Nonstationary Bandit Learning*] \n
 Seungki Min and Daniel Russo\n 
-Working paper - Under Review. \n
+/ICML 2023./ Journal version in progress.\n
+
 
 [https://arxiv.org/abs/2202.09036 *Adaptivity and Confounding in Multi-Armed Bandit Experiments*] \n
 Chao Qin and Daniel Russo \n 
-Working paper - Under Review. \n
+Working paper - In submission. \n
 [https://www.youtube.com/watch?v=dCbhHLWPU1g Talk link]\n 
 
 [https://openreview.net/pdf?id=r-CsquKaHvk *Temporally-Consistent Survival Analysis*] \n
@@ -29,9 +42,9 @@ Jalaj Bhandari and Daniel Russo \n
 [https://www.youtube.com/watch?v=7oejTicsuVY&feature=emb_title Talk link]\n
 
 
-[https://arxiv.org/abs/2007.11684 *Approximation Benefits of Policy Gradient Methods with Aggregated States.*] \n
+[docs/Approx_benefits.pdf *Approximation Benefits of Policy Gradient Methods with Aggregated States.*] \n
 Daniel Russo \n
-/Management Science (to appear)/  \n
+/Management Science, 2023/  \n
 
 
 [docs/satisficing.pdf *Satisficing in Time-Sensitive Bandit Learning*]\n
