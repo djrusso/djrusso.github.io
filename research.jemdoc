@@ -4,12 +4,12 @@
 
 
 [https://arxiv.org/abs/2306.11246 *Neural Inventory Control in Networks via Hindsight Differentiable Policy Optimization*] \n
-Matias Alvo, Daniel Russo, Yash Kanoria
-Working paper. In submission.\n
+Matias Alvo, Daniel Russo, Yash Kanoria\n
+Working paper. \n
 
 [https://arxiv.org/abs/2307.09943 *Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay*] \n
 Thomas M McDonald, Lucas Maystre, Mounia Lalmas, Daniel Russo, Kamil Ciosek \n 
-/KDD 2023/ \n
+/KDD 2023/. Journal version in progress. \n
 [https://research.atspotify.com/2023/07/optimizing-for-the-long-term-without-delay/ Spotify blog post]\n 
 
 
@@ -19,14 +19,14 @@ Working paper. In submission. \n
 
 [https://arxiv.org/abs/2301.13289 *On the Statistical Benefits of Temporal Difference Learning*] \n
 David Cheikhi and Daniel Russo\n 
-/ICML 2023/, {{<font color="FF0000">(full oral presentation; top 2.2% of submissions).<font color="000000">}} \n
+/ICML 2023/ \n {{<font color="FF0000">Full oral presentation at ICML (top 2.2% of submissions).  Finalist in INFORMS APS student paper competition.<font color="000000">}} \n
 
 [https://arxiv.org/abs/2302.04452 *An Information-Theoretic Analysis of Nonstationary Bandit Learning*] \n
 Seungki Min and Daniel Russo\n 
 /ICML 2023./ Journal version in progress.\n
 
 
-[https://arxiv.org/abs/2202.09036 *Adaptivity and Confounding in Multi-Armed Bandit Experiments*] \n
+[https://arxiv.org/abs/2202.09036 *Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation*] \n
 Chao Qin and Daniel Russo \n 
 Working paper - In submission. \n
 [https://www.youtube.com/watch?v=dCbhHLWPU1g Talk link]\n 
