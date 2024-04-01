@@ -1,50 +1,68 @@
 # jemdoc: menu{MENU}{research.html}
 = Daniel Russo -- Research
 
+== Preprints 
 
+[https://arxiv.org/abs/2403.07136 *On the Limited Representational Power of Value Functions and its Links to Statistical (In) Efficiency*] \n
+David Cheikhi and Daniel Russo\n 
+/Working paper - Submitted./ \n
+
+[https://arxiv.org/abs/2402.10592 *Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification*] \n
+Chao Qin and Daniel Russo \n 
+/Working paper - Submitted./ \n
 
 [https://arxiv.org/abs/2306.11246 *Neural Inventory Control in Networks via Hindsight Differentiable Policy Optimization*] \n
 Matias Alvo, Daniel Russo, Yash Kanoria\n
-Working paper. \n
+/Working paper./ \n
 
 [https://arxiv.org/abs/2307.09943 *Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay*] \n
 Thomas M McDonald, Lucas Maystre, Mounia Lalmas, Daniel Russo, Kamil Ciosek \n 
-/KDD 2023/. Journal version in progress. \n
+/Preliminary version appeared at KDD 2023. Journal version in progress./ \n
 [https://research.atspotify.com/2023/07/optimizing-for-the-long-term-without-delay/ Spotify blog post]\n 
 
 
 [https://arxiv.org/abs/2302.03561 *Optimizing Audio Recommendations for the Long-Term: A Reinforcement Learning Perspective*] \n
 Lucas Maystre, Daniel Russo, and Yu Zhao\n 
-Working paper. In submission. \n
+/Working paper - Under revision at Management Science./ \n
+
+
+[https://arxiv.org/abs/2302.04452 *An Information-Theoretic Analysis of Nonstationary Bandit Learning*] \n
+Seungki Min and Daniel Russo\n 
+/Preliminary version appeared at ICML 2023. Journal version submitted./ \n
+
+
+
+[https://arxiv.org/abs/2202.09036 *Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation*] \n
+Chao Qin and Daniel Russo \n 
+/Working paper -  Under revision at Management Science/ \n
+[https://www.youtube.com/watch?v=dCbhHLWPU1g Talk link]\n 
+
+
+
+== Published Papers
+
+[https://pubsonline.informs.org/doi/full/10.1287/opre.2021.0014 *Global Optimality Guarantees For Policy Gradient Methods*] \n
+Jalaj Bhandari and Daniel Russo \n
+/Operations Research, 2024/  \n
+[https://www.youtube.com/watch?v=7oejTicsuVY&feature=emb_title Talk link]\n
 
 [https://arxiv.org/abs/2301.13289 *On the Statistical Benefits of Temporal Difference Learning*] \n
 David Cheikhi and Daniel Russo\n 
 /ICML 2023/ \n {{<font color="FF0000">Full oral presentation at ICML (top 2.2% of submissions).  Finalist in INFORMS APS student paper competition.<font color="000000">}} \n
 
-[https://arxiv.org/abs/2302.04452 *An Information-Theoretic Analysis of Nonstationary Bandit Learning*] \n
-Seungki Min and Daniel Russo\n 
-/ICML 2023./ Journal version in progress.\n
 
-
-[https://arxiv.org/abs/2202.09036 *Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation*] \n
-Chao Qin and Daniel Russo \n 
-Working paper - In submission. \n
-[https://www.youtube.com/watch?v=dCbhHLWPU1g Talk link]\n 
+[docs/Approx_benefits.pdf *Approximation Benefits of Policy Gradient Methods with Aggregated States.*] \n
+Daniel Russo \n
+/Management Science, 2023/  \n
 
 [https://openreview.net/pdf?id=r-CsquKaHvk *Temporally-Consistent Survival Analysis*] \n
 Lucas Maystre and Daniel Russo \n
 /Neurips 2022/ \n
 [https://research.atspotify.com/2022/11/survival-analysis-meets-reinforcement-learning/ Spotify blog post]\n 
 
-[https://arxiv.org/abs/1906.01786 *Global Optimality Guarantees For Policy Gradient Methods*] \n
-Jalaj Bhandari and Daniel Russo \n
-/Operations Research (to appear)/  \n
-[https://www.youtube.com/watch?v=7oejTicsuVY&feature=emb_title Talk link]\n
 
 
-[docs/Approx_benefits.pdf *Approximation Benefits of Policy Gradient Methods with Aggregated States.*] \n
-Daniel Russo \n
-/Management Science, 2023/  \n
+
 
 
 [docs/satisficing.pdf *Satisficing in Time-Sensitive Bandit Learning*]\n
@@ -52,15 +70,13 @@ Daniel Russo and Benjamin Van Roy \n
 /Mathematics of Operations Research, 2022/ \n
 
 
+[https://arxiv.org/abs/2102.10025 *Learning to Stop with Surprisingly Few Samples*] \n
+Tianyi Zhang, Daniel Russo, Assaf Zeevi \n
+/Conference on Learning Theory (COLT) 2022/ \n
+
 [http://proceedings.mlr.press/v130/bhandari21a.html *On the Linear Convergence of Policy Gradient Methods for Finite MDPs*] \n
 Jalaj Bhandari and Daniel Russo \n
 /Conference on Artificial Intelligence and Statistics (AISTATS), 2021/ \n
-
-
-[https://arxiv.org/abs/2102.10025 *Learning to Stop with Surprisingly Few Samples*] \n
-Tianyi Zhang, Daniel Russo, Assaf Zeevi \n
-/Appeared at COLT 2021, journal version in progress/ \n
-
 
 [docs/futility_of_dynamics-merged.pdf  *On the Futility of Dynamics in Robust Mechanism Design*]\n
 Santiago Balseiro, Anthony Kim and Daniel Russo \n  
