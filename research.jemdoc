@@ -3,9 +3,10 @@
 
 == Preprints 
 
-[https://arxiv.org/abs/2405.19466 *Posterior Sampling via Autoregressive Generation*]\n
-Kelly Zhang, Tiffany Cai, Hongseok Namkoong, and Daniel Russo \n
-/Working paper - Submitted./ \n
+[https://arxiv.org/abs/2405.19466 *Active Exploration via Autoregressive Generation of Missing Data*]\n
+Tiffany Cai, Hongseok Namkoong,  Daniel Russo, and Kelly Zhang \n
+/Working paper/ \n
+[https://arxiv.org/abs/2502.07064 See also the extension to the contextual case] 
 
 [https://arxiv.org/abs/2402.10592 *Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification*] \n
 Chao Qin and Daniel Russo \n 
@@ -15,9 +16,9 @@ Chao Qin and Daniel Russo \n
 Matias Alvo, Daniel Russo, Yash Kanoria\n
 /Working paper - Submitted./ \n
 
-[https://arxiv.org/abs/2307.09943 *Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay*] \n
-Thomas M McDonald, Lucas Maystre, Mounia Lalmas, Daniel Russo, Kamil Ciosek \n 
-/Preliminary version appeared at KDD 2023. Journal version in progress./ \n
+[https://arxiv.org/abs/2501.07761 *Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay*] \n
+Kelly W Zhang, Thomas Baldwin-McDonald, Kamil Ciosek, Lucas Maystre, Daniel Russo\n 
+[https://arxiv.org/abs/2307.09943 /Preliminary version/] /appeared at KDD 2023. Journal version submitted./ \n
 [https://research.atspotify.com/2023/07/optimizing-for-the-long-term-without-delay/ Spotify blog post]\n 
 
 
