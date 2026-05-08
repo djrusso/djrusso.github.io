@@ -3,12 +3,8 @@
 
 == Preprints 
 
-[https://arxiv.org/abs/2601.18175 *Success Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success*] \n
-Daniel Russo \n
-/Working paper - Submitted./ \n 
-
 [https://arxiv.org/abs/2405.19466 *Active Exploration via Autoregressive Generation of Missing Data*]\n
-Tiffany Cai, Hongseok Namkoong,  Daniel Russo, and Kelly Zhang \n
+Tiffany Cai, Hongseok Namkoong, Daniel Russo, and Kelly Zhang \n
 /Working paper./ \n
 
 
@@ -20,28 +16,32 @@ Chao Qin and Daniel Russo \n
 Matias Alvo, Daniel Russo, Yash Kanoria\n
 /Working paper - Submitted./ \n
 
-[https://arxiv.org/abs/2501.07761 *Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay*] \n
-Kelly W Zhang, Thomas Baldwin-McDonald, Kamil Ciosek, Lucas Maystre, Daniel Russo\n 
-[https://arxiv.org/abs/2307.09943 /Preliminary version/] /appeared at KDD 2023. Journal version submitted./ \n
-[https://research.atspotify.com/2023/07/optimizing-for-the-long-term-without-delay/ Spotify blog post]\n 
-
-
 [https://arxiv.org/abs/2302.03561 *Optimizing Audio Recommendations for the Long-Term: A Reinforcement Learning Perspective*] \n
 Lucas Maystre, Daniel Russo, and Yu Zhao\n 
 /Working paper - Major revision at Management Science./ \n
 
 
 
-== Published Papers
+== Published and Accepted Papers
+
+[https://arxiv.org/abs/2601.18175 *Success Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success*] \n
+Daniel Russo \n
+/Accepted at ICML 2026 (forthcoming)./ \n
+
+[https://arxiv.org/abs/2501.07761 *Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay*] \n
+Kelly W Zhang, Thomas Baldwin-McDonald, Kamil Ciosek, Lucas Maystre, Daniel Russo\n 
+/Accepted at JMLR (forthcoming)./ \n
+[https://arxiv.org/abs/2307.09943 /Preliminary version/] /appeared at KDD 2023./ \n
+[https://research.atspotify.com/2023/07/optimizing-for-the-long-term-without-delay/ Spotify blog post]\n 
 
 [https://arxiv.org/abs/2202.09036 *Adaptive Experimentation in the Presence of Exogenous Nonstationary Variation*] \n
 Chao Qin and Daniel Russo \n 
-/Accepted at Management Science/ \n
+/Accepted at Management Science (forthcoming)./ \n
 
 [https://arxiv.org/abs/2502.07064 *Contextual Thompson Sampling via Generation of Missing Data*] \n
 Kelly W Zhang, Tiffany Tianhui Cai, Hongseok Namkoong, Daniel Russo \n
 /Extends journal paper *Active Exploration via Autoregressive Generation of Missing Data* to contextual settings/ \n
-/NeuIPS 2025/ \n
+/NeurIPS 2025/ \n
 
 
 [https://pubsonline.informs.org/doi/full/10.1287/opre.2021.0014 *Global Optimality Guarantees For Policy Gradient Methods*] \n
@@ -65,7 +65,7 @@ Daniel Russo \n
 
 [https://openreview.net/pdf?id=r-CsquKaHvk *Temporally-Consistent Survival Analysis*] \n
 Lucas Maystre and Daniel Russo \n
-/Neurips 2022/ \n
+/NeurIPS 2022/ \n
 [https://research.atspotify.com/2022/11/survival-analysis-meets-reinforcement-learning/ Spotify blog post]\n 
 
 
@@ -119,18 +119,18 @@ Chao Qin, Diego Klabjan and Daniel Russo \n
 [docs/best_arm_identification_body.pdf *Simple Bayesian Algorithms for Best Arm Identification*]\n
 Daniel Russo\n
 /Operations Research, 2020/\n 
-/Prelimnary version appeared in COLT 2016/\n {{<font color="FF0000">First place, INFORMS JFIG paper competition.<font color="000000">}}\n 
+/Preliminary version appeared in COLT 2016/\n {{<font color="FF0000">First place, INFORMS JFIG paper competition.<font color="000000">}}\n 
 
 
-[docs/information_usage.pdf *Controling Bias in Adaptive Data Analysis Using Information Theory*]\n
+[docs/information_usage.pdf *Controlling Bias in Adaptive Data Analysis Using Information Theory*]\n
 Daniel Russo and James Zou\n 
-/IEEE Transaction on Information Theory, 2020/\n 
+/IEEE Transactions on Information Theory, 2020/\n 
 /Preliminary version appeared at AISTATS 2016/ {{<font color="FF0000">(full oral presentation; top 7% of submissions).<font color="000000">}}\n 
 
 [https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1663 *Learning to Optimize Via Information Directed Sampling*]\n
 Daniel Russo and Benjamin Van Roy\n 
 /Operations Research, 2018/\n 
-/Prelimnary version appeared at NeurIPS 2014/ \n {{<font color="FF0000">First place, INFORMS George Nicholson 2014 student paper competition.<font color="000000">}}\n 
+/Preliminary version appeared at NeurIPS 2014/ \n {{<font color="FF0000">First place, INFORMS George Nicholson 2014 student paper competition.<font color="000000">}}\n 
 
 [http://www.jmlr.org/papers/volume17/14-087/14-087.pdf *An Information-Theoretic Analysis of Thompson Sampling*]\n
 Daniel Russo and Benjamin Van Roy\n 
@@ -154,25 +154,3 @@ Ian Osband, Daniel Russo, and Benjamin Van Roy\n
 Nick Arnosti and Daniel Russo\n
 /WINE 2013./ \n
  
-
-
-#= Invited Talks
-#~~~
-#INFORMS Annual Meeting, Minneapolis, 2013.\n 
- 
-
-
-#= Class Projects
-#~~~
-#{}{img_left}{pics/cvLASSO.png}{}{}{100}{}
-
-#STATS 315a - PGA Golf score prediction \n
-#[docs/STATS315a.pdf pdf]
-#~~~
-
-#~~~
-#{}{img_left}{pics/projection.jpg}{}{}{100}{}
-
-#CS229 - Deep Learning for Time Series \n
-#[docs/CS229.pdf pdf], #[http://cs229.stanford.edu/proj2012/BussetiOsbandWong-DeepLearningForTimeSeriesModeling.pdf website]
-#~~~
