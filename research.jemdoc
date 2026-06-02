@@ -3,6 +3,11 @@
 
 == Preprints 
 
+[https://arxiv.org/abs/2605.14297 *Policy Optimization in Hybrid Discrete-Continuous Action Spaces via Mixed Gradients*] \n
+Matias Alvo, Daniel Russo, Yash Kanoria\n
+/Working paper./ \n
+
+
 [https://arxiv.org/abs/2405.19466 *Active Exploration via Autoregressive Generation of Missing Data*]\n
 Tiffany Cai, Hongseok Namkoong, Daniel Russo, and Kelly Zhang \n
 /Working paper./ \n
@@ -10,11 +15,11 @@ Tiffany Cai, Hongseok Namkoong, Daniel Russo, and Kelly Zhang \n
 
 [https://arxiv.org/abs/2402.10592 *Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification*] \n
 Chao Qin and Daniel Russo \n 
-/Working paper - Major revision requested at Operations Research./ \n {{<font color="FF0000">Second place, INFORMS Jeff McGill Student Paper Award.<font color="000000">}}\n 
+/Working paper - Major revision at Operations Research./ \n {{<font color="FF0000">Second place, INFORMS Jeff McGill Student Paper Award.<font color="000000">}}\n 
 
 [https://arxiv.org/abs/2306.11246 *Neural Inventory Control in Networks via Hindsight Differentiable Policy Optimization*] \n
 Matias Alvo, Daniel Russo, Yash Kanoria\n
-/Working paper - Submitted./ \n
+/Working paper - Major revision at Management Science./ \n
 
 [https://arxiv.org/abs/2302.03561 *Optimizing Audio Recommendations for the Long-Term: A Reinforcement Learning Perspective*] \n
 Lucas Maystre, Daniel Russo, and Yu Zhao\n 
